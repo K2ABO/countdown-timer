@@ -1,0 +1,30 @@
+body{
+    background-image: url(wall3.jpg.jpg);
+    margin: 0;
+    padding: 0;
+}
+
+#centre {
+    width: 300px;
+}
+
+#jomb {
+    background-color: rgb(202, 192, 192)!important;
+}
+
+#time {
+    font-size: 500%
+}
+
+#finish {
+    font-size: 150%
+    
+}
+
+@media(max-width:500px){
+
+    .input{
+        width: 50px;
+    }
+
+}
